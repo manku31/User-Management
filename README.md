@@ -15,7 +15,7 @@
 
 ### Setting up the project in your machine
 
-  1. Navigate to User-Management diectory
+  1. Navigate to User Management diectory
 
   2. Install the dependencies
     - `npm install`
